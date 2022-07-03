@@ -9,4 +9,7 @@ Widget can be added to any website and all CSS styling works.
 ```
 Change category to anything you want.
 
+
+All content is from Scraped News, a news scraping service I made using Python Flask.
+
 Questions/feedback? Create issue or email kopichiki@gmail.com.
